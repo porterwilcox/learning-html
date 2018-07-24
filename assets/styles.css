@@ -1,0 +1,17 @@
+.contact h1{
+    color: cornflowerblue;
+}
+
+/* a{
+    text-decoration: none;
+    color: black;
+} */
+
+#about{
+    color: blueviolet;
+    background-color: yellow;
+}
+
+*{
+    margin: center;
+}
